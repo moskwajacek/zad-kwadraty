@@ -1,0 +1,135 @@
+.body {
+    margin: 0;
+}
+
+
+.outer {
+    position: relative;
+    width: 600px;
+    height: 600px;
+}
+
+.square {
+
+    width: 33%;
+    height: 33%;
+    position: absolute;
+    border-style: solid;
+    border-color: white;
+    border-width: 4px;
+}
+
+.circle {
+
+    width: 60%;
+    height: 60%;
+    position: absolute;
+    border-style: solid;
+    border-color: white;
+    border-width: 4px;
+    border-radius: 60%;
+    left: 20%;
+    top: 20%;
+}
+
+#square-1 {
+
+    background-color: red;
+    left: 0;
+    top: 0;
+}
+
+
+#square-2 {
+
+    background-color: yellow;
+    top: 33%;
+    left: 0;
+}
+
+#square-3 {
+
+    background-color: purple;
+    top: 66%;
+    left: 0;
+}
+
+#square-4 {
+
+    background-color: blue;
+    left: 33%;
+    top: 0;
+}
+
+
+#square-5 {
+
+    background-color: black;
+    top: 33%;
+    left: 33%;
+}
+
+#square-6 {
+
+    background-color: grey;
+    top: 66%;
+    left: 33%;
+}
+
+#square-7 {
+
+    background-color: green;
+    left: 66%;
+    top: 0;
+}
+
+
+#square-8 {
+
+    background-color: orange;
+    top: 33%;
+    left: 66%;
+}
+
+#square-9 {
+
+    background-color: pink;
+    top: 66%;
+    left: 66%;
+}
+
+#circle-1 {
+    background-color: pink;
+}
+
+#circle-2 {
+    background-color: black;
+}
+
+#circle-3 {
+    background-color: green;
+}
+
+#circle-4 {
+    background-color: yellow;
+}
+
+#circle-5 {
+    background-color: red;
+}
+
+#circle-6 {
+    background-color: blue;
+}
+
+#circle-7 {
+    background-color: orange;
+}
+
+#circle-8 {
+    background-color: purple;
+}
+
+#circle-9 {
+    background-color: grey;
+}
